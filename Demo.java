@@ -1,5 +1,5 @@
 class Demo {
-  Public static void main( String [] args ) {
-    system.out.println("hello jiya");
+  Public Static void main( String [] args ) {
+    System.out.println("hello jiya");
   }
 }
